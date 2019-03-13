@@ -1,2 +1,2 @@
 # Rust-minigrep
-grep implementeret i Rust
+grep implemented in Rust
